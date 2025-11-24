@@ -1,0 +1,16 @@
+git init
+git commit -m "Primeiro commit"
+git remote add origin https://github.com/antonioogom/FIAP-POS-MLET.git
+git branch -M main
+git branch (apenas pra ver)
+git push -u origin main
+
+ficou faltando o readme que estava no repo
+git pull origin main
+git pull origin main --allow-unrelated-histories
+
+git add .
+git commit -m "att readme"
+git push origin main
+
+funfou :)
